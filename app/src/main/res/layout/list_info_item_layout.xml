@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="16dp"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="16dp"
+    android:id="@+id/config_item"
+    android:layout_width="match_parent"
+    android:background="@android:color/background_light"
+    android:layout_height="72dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="procrastinator.meetie.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+
+</RelativeLayout>
