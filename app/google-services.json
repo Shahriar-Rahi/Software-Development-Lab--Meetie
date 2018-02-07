@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "721837428155",
+    "firebase_url": "https://meetie-26c7a.firebaseio.com",
+    "project_id": "meetie-26c7a",
+    "storage_bucket": "meetie-26c7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721837428155:android:ecb94d030a20dabc",
+        "android_client_info": {
+          "package_name": "procrastinator.meetie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721837428155-v5i51urce4m0vbhm55ijni6pdn2hps9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhrTTdE0oOUYXN3tt_WWR_1VMA664yTmU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
