@@ -4,5 +4,10 @@
     android:interpolator="@android:interpolator/linear_out_slow_in"
     android:duration="300">
 
-
+    <changeBounds>
+        <arcMotion
+            android:maximumAngle="0"
+            android:minimumHorizontalAngle="90"
+            android:minimumVerticalAngle="60"/>
+    </changeBounds>
 </transitionSet>
