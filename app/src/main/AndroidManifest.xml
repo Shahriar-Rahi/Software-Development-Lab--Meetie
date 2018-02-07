@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="procrastinator.meetie">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/meetie_icon"
+        android:label="Meetie"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="procrastinator.meetie.MainActivity"
+            android:label="Meetie"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name="procrastinator.meetie.ui.LoginActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/TranslucentBackground">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="procrastinator.meetie.ui.RegisterActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Translucent" />
+        <activity
+            android:name="procrastinator.meetie.ui.ChatActivity"
+            android:screenOrientation="portrait"
+            android:parentActivityName="procrastinator.meetie.MainActivity"/>
+        <activity android:name="procrastinator.meetie.ui.AddGroupActivity"
+            android:theme="@style/MyThemeNoActionbar"/>
+        <service android:name="procrastinator.meetie.service.FriendChatService"
+            android:exported="false"
+            android:persistent= "true" />
+    </application>
+
+</manifest>
