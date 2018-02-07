@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\795db86b25a1f8318e4c52a65177c95a87af344e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a074373a5770e1c42ad0940d3a4740fbfe2d9a87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fa9e4b5298725900e9cb574456633ed7d50b6895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\83ee944ddcf394108918c7d202c90d5fd581db6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfd39cb80e4e20e1053b63c5ba4453af9b379056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\a16fc9043e00a28f978cc54ce2ab63b33656edf1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_21955419240b280b9a702d3fafb42e3c54fac709\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\96eb04aa721784b76d0ad47c4571a2cd54806e58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_ac876e63c3df5df0ef2f7c34d7c26a5479af0f38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\026ec1271f144ba76892a5741d7ccba6f18d5c91\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_ca7390afddc7a3fe18bc9f89788be53273f9c3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\73428be9e4b6503c79f3258d6f2c93312a38917e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1468f830a2987dc2d89d7edba77927babbcd52ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\795db86b25a1f8318e4c52a65177c95a87af344e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_36b1a10c8f547c9db19935baa93d3853c855da71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\8beb827f4c2d885f4d229606ffe5630bc883e306\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77138be46f5d201a5220fc140b01e1e3f9ae409f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\8a5a4b630ec0479e10c11194e46a7225d894df40\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_326546cd8e5b25657b2237ad8a34004b25a843a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\d49181cda8052f4adfce9ae0ee682d4388d3bf1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e998296cfe2be102c644c18c60c1c872d072d2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\721adc2c9897613e30e789a5445d63d3a6b3a661\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14b230d6b71b699e6662bf7236160db5737ee53d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\4d65042aef016e63f4662c2f0badc97cdbbd812e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_6b9c909be63ee1990596dc4f6a7edee6d5ef1e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\553a685000c390b10acb19988f4707a19ef5c938\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_c5ecc01dc36e38d660bd3bec00a7f0eeb3bb2e20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\3fce5e0ca21a3cd3aa33156fbe8ab14ad66cc7f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_fc5a9fccdd87b6cca4f7242b3e09c0c5834543a6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\25c03506b5e87dd4352f800ac881d0938b60f972\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ecaaa3089d9b460459a6b0b3bbf74a44e30430f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\9f2047023afc7c5a80f7fb5d6dd543c9d8aac1a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_1aee3af952b7650a01dbd59c51b3bd51c6cc7a88.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\9f2047023afc7c5a80f7fb5d6dd543c9d8aac1a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aee3af952b7650a01dbd59c51b3bd51c6cc7a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\c2bd9856d01641ed1a18313a89e6b6912f6d5d3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_0787ad7ca94062e9148590b384f389c9829d6e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\73428be9e4b6503c79f3258d6f2c93312a38917e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_2cb5daadd9d9950d397a8ed5e86373d787648657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\8ab9a98b565d5cf74dda0cdaaf912c4ff887cd6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_7c8f79ca3fd039fc4adc109cbd7c22c536e5a8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_3faed8adab2a0a17f70a44bfb099cff3cc8102db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\8ab9a98b565d5cf74dda0cdaaf912c4ff887cd6f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cfac4fb23e0e58af10275573eaa29a39c3202203.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\38080dab02610c9a8a97506722cb796ba8e98a37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2aadf7f61e59e640138a964099505d06d6ee994b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\04d80499ed2663f3054e6e087759b2fba4e82036\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0e10a526509572537612820f2e46b7436f6c188">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_cd19261055b497b1adfba27b1761b39db8006183.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\a16fc9043e00a28f978cc54ce2ab63b33656edf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b43227dc11f123947113e82cb6da0e326cc12d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\e8e9bceae0ee6ad026750f0f1a5c770a16015ea5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_1ed30ef2cd7d3ae044cb20ae0dfb3fb7d8d8cb71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\bdec18b60024b7f3cebbf687d1e3c9b88b522e30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_fc34f93fa5d1ac1c70a3ad97d1986a7cc56e9e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\cc3ffd104080d4822f6236e979a4857da5fa0bdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_23eeb8eb7bf80d67dce51296732fe760414d5330.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\af860b7389bffe34be67e5e0fe6051d9f46a1085\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8da2741f0a51505b7cfcf9972f70ba5b520f84c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\b021f2684c42c8706ec2cf82a9bd3b30b710562f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_e6fc3a3864fa4a4ec4ae2448a3c3598a1c800063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\a32cab3b7cec23df86fd3b88e9f6d2649eedc31b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_616f5815626d4cf6d751d7012659120f797cf597.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\ccfc7ec2a1aafdc92d1099e9a00002d0f92d3075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_2709fb655101b18b9554606c3d7104b99b115c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\8a5a4b630ec0479e10c11194e46a7225d894df40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_b16f8dfa9f029bb9b5b9555ab75b0c081618d633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\a16fc9043e00a28f978cc54ce2ab63b33656edf1\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_21955419240b280b9a702d3fafb42e3c54fac709.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\795db86b25a1f8318e4c52a65177c95a87af344e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a074373a5770e1c42ad0940d3a4740fbfe2d9a87\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\83ee944ddcf394108918c7d202c90d5fd581db6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_dfd39cb80e4e20e1053b63c5ba4453af9b379056.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\73428be9e4b6503c79f3258d6f2c93312a38917e\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1468f830a2987dc2d89d7edba77927babbcd52ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\795db86b25a1f8318e4c52a65177c95a87af344e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36b1a10c8f547c9db19935baa93d3853c855da71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\25c03506b5e87dd4352f800ac881d0938b60f972\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_6ecaaa3089d9b460459a6b0b3bbf74a44e30430f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\553a685000c390b10acb19988f4707a19ef5c938\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5ecc01dc36e38d660bd3bec00a7f0eeb3bb2e20\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\8beb827f4c2d885f4d229606ffe5630bc883e306\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_77138be46f5d201a5220fc140b01e1e3f9ae409f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\d49181cda8052f4adfce9ae0ee682d4388d3bf1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_1e998296cfe2be102c644c18c60c1c872d072d2f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\026ec1271f144ba76892a5741d7ccba6f18d5c91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca7390afddc7a3fe18bc9f89788be53273f9c3bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\3fce5e0ca21a3cd3aa33156fbe8ab14ad66cc7f1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc5a9fccdd87b6cca4f7242b3e09c0c5834543a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\8a5a4b630ec0479e10c11194e46a7225d894df40\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_326546cd8e5b25657b2237ad8a34004b25a843a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\721adc2c9897613e30e789a5445d63d3a6b3a661\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_14b230d6b71b699e6662bf7236160db5737ee53d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\55da65d597e6de8b4a49b4d082a4d8a76e8aa2a5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_ce8c6e40c6c4daa9428ca3a69fe95f65ab360828.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab58136bd612cea57078478214335f5e1a26fb73">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f808029c75dd36eda1cbee8d9735219f45b1f381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\4d65042aef016e63f4662c2f0badc97cdbbd812e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b9c909be63ee1990596dc4f6a7edee6d5ef1e65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\96eb04aa721784b76d0ad47c4571a2cd54806e58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac876e63c3df5df0ef2f7c34d7c26a5479af0f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\38080dab02610c9a8a97506722cb796ba8e98a37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_2aadf7f61e59e640138a964099505d06d6ee994b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\55da65d597e6de8b4a49b4d082a4d8a76e8aa2a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736afb22391a31d5fb14d282179c06c5649c46fe">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce8c6e40c6c4daa9428ca3a69fe95f65ab360828\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\c2bd9856d01641ed1a18313a89e6b6912f6d5d3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0787ad7ca94062e9148590b384f389c9829d6e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\73428be9e4b6503c79f3258d6f2c93312a38917e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cb5daadd9d9950d397a8ed5e86373d787648657\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\af860b7389bffe34be67e5e0fe6051d9f46a1085\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_e8da2741f0a51505b7cfcf9972f70ba5b520f84c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\8ab9a98b565d5cf74dda0cdaaf912c4ff887cd6f\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cfac4fb23e0e58af10275573eaa29a39c3202203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_3faed8adab2a0a17f70a44bfb099cff3cc8102db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\8a5a4b630ec0479e10c11194e46a7225d894df40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b16f8dfa9f029bb9b5b9555ab75b0c081618d633\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\8ab9a98b565d5cf74dda0cdaaf912c4ff887cd6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c8f79ca3fd039fc4adc109cbd7c22c536e5a8e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\bdec18b60024b7f3cebbf687d1e3c9b88b522e30\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc34f93fa5d1ac1c70a3ad97d1986a7cc56e9e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\ccfc7ec2a1aafdc92d1099e9a00002d0f92d3075\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2709fb655101b18b9554606c3d7104b99b115c4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\04d80499ed2663f3054e6e087759b2fba4e82036\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0e10a526509572537612820f2e46b7436f6c188">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd19261055b497b1adfba27b1761b39db8006183\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rahi\.android\build-cache\a16fc9043e00a28f978cc54ce2ab63b33656edf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Rahi\Desktop\Meetie\app\build\intermediates\pre-dexed\debug\classes_b43227dc11f123947113e82cb6da0e326cc12d34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\b021f2684c42c8706ec2cf82a9bd3b30b710562f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6fc3a3864fa4a4ec4ae2448a3c3598a1c800063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\e8e9bceae0ee6ad026750f0f1a5c770a16015ea5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ed30ef2cd7d3ae044cb20ae0dfb3fb7d8d8cb71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\cc3ffd104080d4822f6236e979a4857da5fa0bdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23eeb8eb7bf80d67dce51296732fe760414d5330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rahi\.android\build-cache\a32cab3b7cec23df86fd3b88e9f6d2649eedc31b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Rahi\Desktop\android-firebase-chat-master\RivChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_616f5815626d4cf6d751d7012659120f797cf597\classes.dex" />
+    </item>
+
+</items>
