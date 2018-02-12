@@ -60,7 +60,7 @@ If your account dont register.you can  inform  us on ameensunny242@gmail.com
 
 # Contributor:
 
-1.Shahriar Rahi __
+1.Shahriar Rahi \n 
 2.Nakul Deb Nath __ 
 3.Mahmudul Hasan Rifat __ 
 4.Mohd.Ruhul Ameen __   
