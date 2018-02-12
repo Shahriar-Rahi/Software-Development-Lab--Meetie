@@ -15,7 +15,7 @@
    > Lower Android OS:Kitkat 4.4 <br /> 
    > Lower API :19 <br />
    >  Higher Android OS : Android Oreo <br />
-    > Higher API:27 <br />
+   > Higher API:27  <br />
 
 ### This is a software project of 4 students of Rajshahi University of  the couse CSE-2242.
 
@@ -61,8 +61,8 @@ If your account dont register.you can  inform  us on ameensunny242@gmail.com
 # Contributor:
 
 1.Shahriar Rahi <br />
-2.Nakul Deb Nath br /> 
-3.Mahmudul Hasan Rifat br />
+2.Nakul Deb Nath <br /> 
+3.Mahmudul Hasan Rifat <br />
 4.Mohd.Ruhul Ameen <br /> 
 
 
