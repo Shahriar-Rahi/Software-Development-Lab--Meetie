@@ -1,4 +1,4 @@
-# Software-Development-Lab--Meetie
+# Software-Development-Lab --> Meetie
 
 # Overview
 
@@ -9,20 +9,20 @@
 
 # Sofware Development Lab-II- (CSE-2242)- Project- Meetie
   
-   > Software:Android App
-   > App Name: Meetie
-   > Genre:Chating App
-   > Lower Android OS:Kitkat 4.4
-   > Lower API :19
-   >  Higher Android OS : Android Oreo
-    > Higher API:27
+   > Software:Android App __
+   > App Name: Meetie __
+   > Genre:Chating App __ 
+   > Lower Android OS:Kitkat 4.4 __ 
+   > Lower API :19 __ 
+   >  Higher Android OS : Android Oreo __
+    > Higher API:27 __ 
 
 ### This is a software project of 4 students of Rajshahi University of  the couse CSE-2242.
 
 
 # Project Details
 
-Alt-H2
+
 
 Meetie  is a chatting app which uses  Google Firebases realtime Database for storing the data.The conversation between people is encrypted in the database.Again the users can get notifications with a sound when they get a new message. 
 
@@ -47,24 +47,23 @@ Best of luck.If you got any bugs,keep us informed.Thanks.
 
 
 # Installing
- 
-Alt-H2  To install the app you only need to accept the permissions,and the app will be installed in your device.
+ To install the app you only need to accept the permissions,and the app will be installed in your device.
 
-#TestBugs
+# TestBugs
 
-Alt-H2 If your account dont register.you can  inform  us on ameensunny242@gmail.com
+If your account dont register.you can  inform  us on ameensunny242@gmail.com
 
 # Firebase:
 
-Alt-H2 You can do your own projects in firebase: https://firebase.google.com/docs/database/
+ You can do your own projects in firebase: https://firebase.google.com/docs/database/
 
 
-# Conributor:
+# Contributor:
 
-1.Shahriar Rahi
-2.Nakul Deb Nath
-3.Mahmudul Hasan Rifat
-4.Mohd.Ruhul Ameen   
+1.Shahriar Rahi __
+2.Nakul Deb Nath __ 
+3.Mahmudul Hasan Rifat __ 
+4.Mohd.Ruhul Ameen __   
 
 
 
